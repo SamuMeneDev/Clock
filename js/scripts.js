@@ -47,7 +47,7 @@ setInterval(() => {
         // TARDE
         document.body.style.backgroundImage = "var(--bgTarde)";
         clockDisplay.style.background = "var(--clockTardeColor)"
-    } else if ((horas>=20 <=24) || (horas>=0 && horas<6)) {
+    } else if ((horas>=20 && horas<24) || (horas>=0 && horas<6)) {
         // NOITE
         document.body.style.backgroundImage = "var(--bgNoite)";
         clockDisplay.style.background = "var(--clockNoiteColor)";
