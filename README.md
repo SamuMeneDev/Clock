@@ -1,7 +1,7 @@
 # 🗂️ Digital Clock v1.1
 Relógio Digital e data do dia que muda de tema conforme o horário.
 **Espero que goste :D, abraços <a href="https://github.com/SamuMeneDev">Samu Mene</a>**
-### Link do site: <a href="https://samumenedev.github.io/Clock/">Digital Clock v1.1</a>
+### Link do site: <a href="https://samumenedev.github.io/Clock/" _target="blank">Digital Clock v1.1</a>
 ## ⚙️ Tecnologias Usadas
 <div><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="width:25px;">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="width:25px;">
@@ -9,7 +9,7 @@ Relógio Digital e data do dia que muda de tema conforme o horário.
 
 ## 🧾 Temas
 O site conforme os horários abaixo muda o tema de fundo e cores:
-<table style="&tr {text-align:center;}">
+<table>
   <th>Intervalo de Hora</th>
   <th>Tema</th>
   <th>Visualização</th>
