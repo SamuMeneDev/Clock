@@ -3,9 +3,9 @@ Relógio Digital e data do dia que muda de tema conforme o horário.
 **Espero que goste :D, abraços <a href="https://github.com/SamuMeneDev">Samu Mene</a>**
 ### Link do site: <a href="https://samumenedev.github.io/Clock/">Digital Clock v1.1</a>
 ## ⚙️ Tecnologias Usadas
-<div><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="width:25px;">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="width:25px;">
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" style="width:25px;"></div>
+<div><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="width:25px;">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="width:25px;">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" alt="Javascript" style="width:25px;"></div>
 
 ## 🧾 Temas
 O site conforme os horários abaixo muda o tema de fundo e cores:
