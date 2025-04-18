@@ -38,11 +38,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    transition: var(--transitionDefault);
 }
 .container {
     display: flex;
-
     width: auto;
     height: 100%;
     justify-content: center;
