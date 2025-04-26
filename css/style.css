@@ -8,7 +8,8 @@ DIA 10h - 16h
 TARDE 16h - 20h
 NOITE 20h 06h
     */
-
+    --bgInit: linear-gradient(60deg, #8803d4, #0d1542, #2d9e8b);
+    --clockInit: linear-gradient(20deg, #cf52c5f1, #faba42f3, #0b4b86);
 
     /*MANHA*/
     --bgManha: url(./img/manha.jpg);

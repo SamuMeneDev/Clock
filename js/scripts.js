@@ -15,7 +15,8 @@ const initDate = initNow.getUTCDate()<10 ? "0"+initNow.getUTCDate().toString() :
 
 horarioElemento.innerHTML = `${initHora}:${initMinutos}:${initSegundos}`;
 diaElemento.innerHTML = `${diasSemana[initNow.getUTCDay()]}, Dia ${initDate} de ${meses[initNow.getUTCMonth()]} de ${initNow.getUTCFullYear()}`;
-
+document.body.style.background = "var(--bgInit)";
+clockDisplay.style.background = "var(--clockInit)";
 
 setInterval(() => {
     const now = new Date();
