@@ -1,7 +1,7 @@
 # 🗂️ Digital Clock v1.2
 Relógio Digital e data do dia que muda de tema conforme o horário.
 **Espero que goste :D, abraços <a href="https://github.com/SamuMeneDev">Samu Mene</a>**
-### Link do site: <a href="https://samumenedev.github.io/DigitalClock/" _target="blank">Digital Clock v1.1</a>
+### Link do site: <a href="https://samumenedev.github.io/DigitalClock/" _target="blank">Digital Clock v1.2</a>
 
 ## Correções e melhorias
 - tela de carregamento estilizada.
